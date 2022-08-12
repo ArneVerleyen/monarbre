@@ -1,0 +1,45 @@
+.about-container {
+
+    background-image: url('../../_static/img/background_tree.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Montserrat', sans-serif;
+    color: #28551D;
+
+    h2 {
+        font-weight: 300;
+        font-size: 48px;
+        margin-bottom: 80px;
+    }
+
+    h3 {
+        font-weight: 300;
+        font-size: 28px;
+        margin-bottom: 8px;
+    }
+
+    .card {
+        margin: 0 30px;
+        margin-bottom: 80px;
+        max-width: 643px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .about-container{
+        h2 {
+            font-size: 36px;
+        }
+        h3 {
+            font-size: 24px;
+        }
+    }
+}

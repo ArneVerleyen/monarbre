@@ -1,0 +1,27 @@
+.privacy_policy {
+    margin: 0 50px 30px 50px; 
+    font-family: 'Montserrat', sans-serif;
+    color: #28551D;
+    word-break: break-word; 
+
+    h4 {
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    li {
+        margin-bottom: 6px;
+    }
+
+    ul, ol{
+        margin-bottom: 12px;
+    }
+
+    a {
+        color: #28551D;
+
+        &:hover {
+            color: #75A244;
+        }
+    }
+}

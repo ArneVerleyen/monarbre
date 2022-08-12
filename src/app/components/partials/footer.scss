@@ -1,0 +1,109 @@
+.footer {
+    background-color: #28551D;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+
+    .contact {
+        display: flex;
+        align-items: center;
+
+        .contact_info {
+            display: flex;
+            flex-direction: column;
+            h5 {
+                font-weight: 400;
+                font-size: 18px;
+                margin-bottom: 6px;
+            }
+            a {
+                text-decoration: none;
+                color: white;
+                margin: 6px 0;
+            }
+        }
+
+        .contact_button {
+            text-decoration: none;
+            background-color: #28551D;
+            border: solid 1px white;
+            border-radius: 8px;
+            font-weight: 300;
+            color: white;
+            padding: 10px;
+            font-size: 24px;
+            margin-left: 50px;
+        }
+        .contact_button:hover {
+            background-color: white;
+            border: solid 1px #28551D;
+            color: #28551D;
+
+        }
+
+
+    }
+    .offerte {
+        font-weight: 300;
+        font-size: 24px;
+
+        a {
+            color: white;
+            border: solid 1px white;
+            border-radius: 6px;
+            padding: 0 3px;
+            text-decoration: none;
+        }
+
+        a:hover {
+            border: solid 1px #28551D;
+            color: #28551D;
+            background-color: white;
+        }
+    }
+
+    .contact_container {
+        display: flex;
+        align-items: center;
+        svg {
+            height: 18px;
+            width: auto;
+        }
+        div {
+            margin-right: 8px;
+        }
+    }
+
+    .mail {
+        a {
+            border-radius: 150px;
+            background-color: #28551D;
+            border: solid 1px white;
+            padding: 8px 10px;
+            text-decoration: none;
+            color: white;
+
+            svg {
+                margin-right: 8px;
+                height: 18px;
+                width: auto;
+                margin-bottom: -3px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 700px) {
+
+    .footer {
+        padding: 20px;
+        flex-direction: column;
+        .contact {
+            margin-top: 30px;
+        }
+    } 
+
+}
