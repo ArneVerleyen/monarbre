@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/monarbre/static/css/main.10604df9.css",
-    "main.js": "/monarbre/static/js/main.92af7942.js",
-    "static/js/787.a4eb0557.chunk.js": "/monarbre/static/js/787.a4eb0557.chunk.js",
-    "static/media/header.jpg": "/monarbre/static/media/header.11169ad0bdfc0eb09819.jpg",
-    "static/media/background_tree.png": "/monarbre/static/media/background_tree.89b53da22bf26ebc57aa.png",
-    "static/media/veiligheid.jpg": "/monarbre/static/media/veiligheid.15c0a980a4c0b43a9309.jpg",
-    "static/media/wat_is_boomverzorging.jpg": "/monarbre/static/media/wat_is_boomverzorging.cc079709fbb58a04e34f.jpg",
-    "static/media/wie_zijn_we.jpg": "/monarbre/static/media/wie_zijn_we.7f7096dcd23891532fac.jpg",
-    "index.html": "/monarbre/index.html",
-    "main.10604df9.css.map": "/monarbre/static/css/main.10604df9.css.map",
-    "main.92af7942.js.map": "/monarbre/static/js/main.92af7942.js.map",
-    "787.a4eb0557.chunk.js.map": "/monarbre/static/js/787.a4eb0557.chunk.js.map"
+    "main.css": "/static/css/main.f8ef07c4.css",
+    "main.js": "/static/js/main.f8d25741.js",
+    "static/js/787.a4eb0557.chunk.js": "/static/js/787.a4eb0557.chunk.js",
+    "static/media/header.jpg": "/static/media/header.11169ad0bdfc0eb09819.jpg",
+    "static/media/background_tree.png": "/static/media/background_tree.89b53da22bf26ebc57aa.png",
+    "static/media/veiligheid.jpg": "/static/media/veiligheid.15c0a980a4c0b43a9309.jpg",
+    "static/media/wat_is_boomverzorging.jpg": "/static/media/wat_is_boomverzorging.cc079709fbb58a04e34f.jpg",
+    "static/media/wie_zijn_we.jpg": "/static/media/wie_zijn_we.7f7096dcd23891532fac.jpg",
+    "index.html": "/index.html",
+    "main.f8ef07c4.css.map": "/static/css/main.f8ef07c4.css.map",
+    "main.f8d25741.js.map": "/static/js/main.f8d25741.js.map",
+    "787.a4eb0557.chunk.js.map": "/static/js/787.a4eb0557.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10604df9.css",
-    "static/js/main.92af7942.js"
+    "static/css/main.f8ef07c4.css",
+    "static/js/main.f8d25741.js"
   ]
 }
