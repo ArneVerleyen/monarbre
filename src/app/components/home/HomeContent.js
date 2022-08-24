@@ -16,7 +16,7 @@ const HomeContent = () => {
                 <img src={wieZijnWe} alt="residentiële gebouwen" />
                 <div className="text">
                     <h4>
-                        Wie zijn we?
+                        Wie ben ik?
                     </h4>
                     <br></br>
                     <p>
