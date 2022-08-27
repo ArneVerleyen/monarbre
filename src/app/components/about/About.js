@@ -63,8 +63,8 @@ const About = () => {
                     Standplaatsverbetering
                 </h3>
                 <p>
-                    Sommige bomen staan niet ideaal waardoor ze het minder goed gaan doen.
-                    Wij analyseren wat we aan zijn staanplaats situatie kunnen veranderen waardoor de boom meer kans krijgt om beter te groeien.
+                    Sommige bomen staan niet ideaal waardoor ze het minder goed gaan doen. 
+                    Wij analyseren wat we aan zijn staanplaats/situatie kunnen veranderen waardoor de boom meer kans en zin krijgt om beter te groeien en mooi in blad te staan.
                 </p>
             </div>
             <div className='card'>
@@ -80,9 +80,10 @@ const About = () => {
                     Aanplanting van bomen met nazorg
                 </h3>
                 <p>
-                    We zorgen dat de bomen die we planten op de juiste manier en op een juiste plaats gepland worden zodat deze bomen optimaal oud kunnen worden.
-                    Geplantte bomen snoeien we indien nodig op de juiste manier om het gewenste eindresultaat te krijgen.
-                    We volgen deze bomen goed op.
+                    We zorgen dat de bomen die we planten op de juiste manier en op een juiste plaats gepland worden. 
+                    zo kunnen deze bomen optimaal groeien en oud worden. 
+                    Geplante bomen snoeien we (indien nodig) op de juiste manier om het gewenste eindresultaat in de toekomst te krijgen.
+                    We volgen ze goed op en zorgen dan ook dat de boom alles naar wens heeft.
                 </p>
             </div>
             <div className='card'>
@@ -90,9 +91,7 @@ const About = () => {
                     Inventaris maken
                 </h3>
                 <p>
-                    Dit is aangeraden voor grotere domeinen.
-                    We maken een plan van het domein met de locatie van alle bomen. Elke boom wordt aangegeven met een nummer op het plan. Elke boom krijgt ook een foto, zodat we goed kunnen opvolgen hoe de boom evolueert. Alle werken die uitgevoerd worden aan een boom worden genoteerd in de inventaris. 
-                    Deze inventarisatie laat toe om een goed overzicht te houden over de toestand van alle bomen en zo de beste verzorging te kunnen garanderen.
+                    Dit is aangeraden voor grotere domeinen. We maken een plan van het domein met de locatie van alle bomen. Elke boom wordt aangegeven met een nummer op het plan. Er worden van elke boom meerdere foto’s gemaakt, zodat we goed kunnen opvolgen hoe de boom evolueert. Alle werken die uitgevoerd worden aan een boom worden genoteerd in de inventaris. Deze inventarisatie laat toe om een goed overzicht te houden over de toestand en evolutie van alle bomen en zo de beste verzorging te kunnen garanderen.
                 </p>
             </div>
         </div>

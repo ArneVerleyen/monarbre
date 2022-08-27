@@ -20,15 +20,11 @@ const HomeContent = () => {
                     </h4>
                     <br></br>
                     <p>
-                        Mon Pijpstra
-                        <br></br>
-                        <br></br>
-                        Al heel mijn leven loop ik graag rond in de natuur. Mijn favoriete omgeving is tussen de bomen. Liefst van al in een groot afgelegen bos, dit is waar ik tot rust kom. 
-                        Ik heb al sinds ik klein was een grote facinatie voor bomen, die gigantische dingen die er elk seizoen anders uitzien en als maar groter worden.
-                        Voor dat ik ben begonnen in de boomverzorging studeerde ik fotografie. Hier ook was mn grootste inspiratie bron natuur,bos en bomen. ik kon uren zelfs dagen met mijn camera rondlopen in de natuur en fotos maken van bomen.
-                        Maar ik had wat meer actie nodig. 
-                        Wat is er beter als van een passie je beroep te kunnen maken.
-                        Ik ben een boomverzorger en ik ben hier trots op!
+                        Ik ben een jonge zelfstandige die al sinds kinds af aan gefascineerd is door bomen.
+
+                        Toen ik voor het eerst hoorde over een boomverzorger of boomchirurg was ik meteen ‘ja, dat is wat ik wil worden!’.
+
+                        Ik oefen dan ook vandaag de dag deze prachtige job uit, met veel passie en enthousiasme!
                     </p>
                 </div>
             </div>
