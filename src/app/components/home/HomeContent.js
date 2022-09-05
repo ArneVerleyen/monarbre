@@ -24,7 +24,7 @@ const HomeContent = () => {
 
                         Toen ik voor het eerst hoorde over een boomverzorger of boomchirurg was ik meteen ‘ja, dat is wat ik wil worden!’.
 
-                        Ik oefen dan ook vandaag de dag deze prachtige job uit, met veel passie en enthousiasme!
+                        Ik oefen dan ook vandaag de dag deze prachtige job uit en doe dit met veel passie en enthousiasme!
                     </p>
                 </div>
             </div>

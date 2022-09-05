@@ -81,7 +81,7 @@ const About = () => {
                 </h3>
                 <p>
                     We zorgen dat de bomen die we planten op de juiste manier en op een juiste plaats gepland worden. 
-                    zo kunnen deze bomen optimaal groeien en oud worden. 
+                    Zo kunnen deze bomen optimaal groeien en oud worden. 
                     Geplante bomen snoeien we (indien nodig) op de juiste manier om het gewenste eindresultaat in de toekomst te krijgen.
                     We volgen ze goed op en zorgen dan ook dat de boom alles naar wens heeft.
                 </p>
