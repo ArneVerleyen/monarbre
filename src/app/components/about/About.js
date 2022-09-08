@@ -9,7 +9,7 @@ const About = () => {
             </h2>
             <div className='card'>
                 <h3>
-                    We zorgen voor u bomen
+                    We zorgen voor uw bomen
                 </h3>
                 <p>
                     De nodige verzorging verschilt heel erg van boom tot boom, van omgeving tot omgeving, en wordt aangepast aan uw verwachtingen en de noden van uw bomen.
